@@ -37,7 +37,7 @@ import random
 
 comp_choice = int(random.randint(0,2))
 
-print(f"Computer chose")
+print(f"Computer chose: ")
 
 print(lst_choice[comp_choice])
 
